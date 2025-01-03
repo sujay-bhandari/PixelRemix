@@ -2,6 +2,19 @@
 
 A professional-grade web-based image editing application built with AngularJS and Fabric.js, offering comprehensive photo manipulation capabilities through an intuitive user interface.
 
+## Description
+
+PixelRemix is a powerful, feature-rich photo editing web application designed for both casual users and professionals. Built with modern web technologies, it provides a seamless editing experience directly in your browser, eliminating the need for desktop software installation.
+
+### Why PixelRemix?
+
+- **Professional-Grade Tools**: Access advanced editing features typically found in desktop applications
+- **No Installation Required**: Edit photos directly in your web browser
+- **Cross-Platform Compatibility**: Works on any device with a modern web browser
+- **Real-Time Preview**: See your changes instantly as you edit
+- **User-Friendly Interface**: Intuitive design makes professional editing accessible to everyone
+- **Extensive Asset Library**: Built-in collection of filters, stickers, and effects
+
 ## Features
 
 - **Image Manipulation**
