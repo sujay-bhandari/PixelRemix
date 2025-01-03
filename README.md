@@ -1,2 +1,0 @@
-# PixelRemix
-Editing Web Application
